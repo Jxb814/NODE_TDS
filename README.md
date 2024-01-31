@@ -1,4 +1,5 @@
-Sample code for the paper
+Sample code for the paper:
+X. A. Ji and G. Orosz, "Learning time delay systems with neural ordinary differential equations", 17th IFAC Workshop on Time Delay Systems, IFAC-PapersOnLine, 55(36):79-84, 2022.
 
 @inproceedings{ji2022,
   title={Learning time delay systems with neural ordinary differential equations},
